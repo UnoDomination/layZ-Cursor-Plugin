@@ -49,16 +49,6 @@ More prompts: [docs.layz.ai/mcp/example-prompts](https://docs.layz.ai/mcp/exampl
 
 Tool changes on the live MCP show up without a plugin release. Bump `version` in `.cursor-plugin/plugin.json` when the manifest, skill, rules, commands, or MCP URL change.
 
-## Validate
-
-```bash
-node scripts/validate.mjs
-```
-
-## Submit
-
-Submit https://github.com/UnoDomination/layZ-Cursor-Plugin to the Cursor team through the [Cursor Marketplace](https://cursor.com/marketplace) publisher flow.
-
 ## License
 
 MIT
