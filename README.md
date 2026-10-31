@@ -40,6 +40,11 @@ What can layZ do? Call layz_get_capabilities and summarize it.
 
 More prompts: [docs.layz.ai/mcp/example-prompts](https://docs.layz.ai/mcp/example-prompts).
 
+## Support
+
+- Docs: [docs.layz.ai/mcp/connect-cursor](https://docs.layz.ai/mcp/connect-cursor)
+- Contact: [layz.ai/contact](https://layz.ai/contact) or support@layz.ai
+
 ## Updating
 
 Tool changes on the live MCP show up without a plugin release. Bump `version` in `.cursor-plugin/plugin.json` when the manifest, skill, rules, commands, or MCP URL change.
@@ -52,7 +57,7 @@ node scripts/validate.mjs
 
 ## Submit
 
-Push this folder to a public GitHub repo and submit the repo link to the Cursor team through the [Cursor Marketplace](https://cursor.com/marketplace) publisher flow.
+Submit https://github.com/UnoDomination/layZ-Cursor-Plugin to the Cursor team through the [Cursor Marketplace](https://cursor.com/marketplace) publisher flow.
 
 ## License
 

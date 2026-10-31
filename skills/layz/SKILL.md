@@ -11,7 +11,7 @@ layZ is an AI video platform for short-form creators. The `layz` MCP server expo
 
 1. Call `layz_get_capabilities` at the start of every unfamiliar session. Follow what it returns over this file when they differ.
 2. Take stock of your own tools in Cursor (browser, screenshots, image viewing, terminal). Use them to inspect real frames and exports. Never claim to have watched or listened to media you could not inspect.
-3. If a layZ tool returns an auth or plan error, tell the user to sign in when Cursor prompts, or to pick a paid plan at https://layz.ai/pricing.
+3. If a layZ tool returns an auth or plan error, tell the user to sign in when Cursor prompts, or to choose a paid plan under Settings → Billing (https://layz.ai/app/settings/billing).
 
 ## Pick the path
 
