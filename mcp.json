@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "layz": {
+      "type": "http",
+      "url": "https://api.layz.ai/mcp"
+    }
+  }
+}

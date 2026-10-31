@@ -1,0 +1,13 @@
+---
+description: Conventions for driving the layZ MCP from Cursor Agent. Apply when the user asks to download, clean, enhance, edit, or export a video, or mentions layZ.
+alwaysApply: false
+---
+
+# layZ
+
+- Read the `layz` skill before the first layZ tool call in a session, and call `layz_get_capabilities` first.
+- Inspect real frames and exports with `layz_view_video_frames` before describing footage. Do not guess at content you have not seen.
+- In guided workflows, wait for the user to approve the exact script before calling `layz_approve_script`.
+- Duplicate or version a project before large edits, and save when done.
+- Review the final export before sharing it. Return the editor link and the download URL.
+- Ask before deleting anything in the user's layZ account.

@@ -1,0 +1,30 @@
+{
+  "name": "layz",
+  "displayName": "layZ AI",
+  "version": "1.0.0",
+  "description": "Download social videos, remove watermarks and burned-in text, enhance footage, run video workflows, and edit and export short-form videos with layZ AI from Cursor Agent.",
+  "author": {
+    "name": "layZ AI",
+    "url": "https://layz.ai"
+  },
+  "homepage": "https://layz.ai",
+  "repository": "https://github.com/UnoDomination/layZ-Cursor-Plugin",
+  "license": "MIT",
+  "keywords": [
+    "layz",
+    "video",
+    "video editor",
+    "ai video",
+    "shorts",
+    "tiktok",
+    "reels",
+    "video downloader",
+    "watermark remover",
+    "captions",
+    "mcp"
+  ],
+  "logo": "assets/logo.png",
+  "skills": "./skills/",
+  "rules": "./rules/",
+  "commands": "./commands/"
+}
